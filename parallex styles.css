@@ -9,6 +9,7 @@ body{
     background: #f9f9f9;
     min-height: 100vh;
     overflow-x: hidden;
+    overflow-y: hidden; // vo infinite tak scroll ho raha hai isliye y-axis ko bhi limit kar
 }
 
 header{
